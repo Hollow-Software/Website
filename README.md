@@ -8,7 +8,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-[查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/1)
+[查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/7)
 
 这里汇聚了我的网站仓库。
 
