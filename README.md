@@ -58,8 +58,6 @@ Here is a collection of my website repositories.
 
 * https://lessons.hollowman.ml -> https://github.com/HollowMan6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper
 
-* https://lessons.hollowman.ml -> https://github.com/HollowMan6/ChaoXing-ErYa-Wisdom-Tree-Lessons-Helper
-
 * https://linkedin.hollowman.ml -> https://hollowman.ml/Linkedin
 
 * https://lzu.hollowman.ml -> https://hollowman.ml/LZU/
