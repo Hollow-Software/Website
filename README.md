@@ -60,7 +60,7 @@ Here is a collection of my website repositories.
 
 * https://linkedin.hollowman.ml -> https://hollowman.ml/Linkedin
 
-* https://lzu.hollowman.ml -> https://hollowman.ml/LZU-Auto-COVID-Health-Report/create.html
+* https://lzu.hollowman.ml -> https://hollowman.ml/LZU-Auto-COVID-Health-Report/
 
 * https://mail.hollowman.ml -> mailto:hollowman@hollowman.ml
 
