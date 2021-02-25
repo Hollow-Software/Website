@@ -64,6 +64,8 @@ Here is a collection of my website repositories.
 
 * https://mail.hollowman.ml -> mailto:hollowman@hollowman.ml
 
+* https://notifications.hollowman.ml -> https://hollowman.ml/Site-Notifications/
+
 * https://ospp.hollowman.ml -> https://github.com/HollowMan6/My-OSPP-Summer
 
 * https://practice.hollowman.ml -> https://github.com/Hollow-Software/Coding-Practices
